@@ -37,4 +37,5 @@ buildNumber.properties
 hs_err_pid*
 *.iml
 .idea
+account-service.iml
 
